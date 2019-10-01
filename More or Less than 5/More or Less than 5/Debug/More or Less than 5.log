@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\s1903605\source\repos\More or Less than 5\More or Less than 5\main.cpp(1,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\s1903605\source\repos\More or Less than 5\More or Less than 5\main.cpp(20,2): error C2059:  syntax error: '{'
+C:\Users\s1903605\source\repos\More or Less than 5\More or Less than 5\main.cpp(20,2): error C2143:  syntax error: missing ';' before '{'
+C:\Users\s1903605\source\repos\More or Less than 5\More or Less than 5\main.cpp(23,2): error C2181:  illegal else without matching if
